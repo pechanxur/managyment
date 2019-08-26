@@ -8,6 +8,7 @@ Technologies:
 
   - Frontend:
     - Twitter Bootstrap
+    - [Icons8](https://icons8.com)
 
 Enviroment Setup:
 ------------
@@ -48,10 +49,6 @@ License
 
 This is an open source software under the MIT License. You are free to use, copy, modify, distribute and sell it.
 
-Contact:
-------------
-
-d@slushi.mx
 
 BrowserStack
 ------------
