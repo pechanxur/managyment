@@ -57,3 +57,10 @@ This project runs its tests on multiple desktop and mobile browsers using [Brows
 <img src="https://cloud.githubusercontent.com/assets/131406/22254249/534d889e-e254-11e6-8427-a759fb23b7bd.png" height="40" />
 
 
+Auth0
+------------
+This project runs its auth system using [Auth0 Open Source Program](https://auth0.com/?utm_source=oss&utm_medium=gp&utm_campaign=oss).
+
+<img src="https://cdn.auth0.com/oss/badges/a0-badge-dark.png" height="40" alt="JWT Auth for open source projects" />
+
+
