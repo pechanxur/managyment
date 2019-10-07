@@ -61,6 +61,6 @@ Auth0
 ------------
 This project runs its auth system using (cooming soon on V2) [Auth0 Open Source Program](https://auth0.com/?utm_source=oss&utm_medium=gp&utm_campaign=oss).
 
-<img src="https://cdn.auth0.com/oss/badges/a0-badge-dark.png" width="150" height="50"alt="JWT Auth for open source projects" />
+<img src="https://cdn.auth0.com/oss/badges/a0-badge-dark.png" width="150" height="50" alt="JWT Auth for open source projects" />
 
 
