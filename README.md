@@ -47,7 +47,7 @@ Screenshots:
 License
 ------------
 
-This is an open source software under the MIT License. You are free to use, copy, modify, distribute and sell it.
+This is an open source software under the MIT License. You are free to use, copy, modify, distribute.
 
 
 BrowserStack
