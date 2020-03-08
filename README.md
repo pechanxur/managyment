@@ -63,10 +63,10 @@ This project runs its auth system using (cooming soon on V2) [Auth0 Open Source 
 
 <img src="https://cdn.auth0.com/oss/badges/a0-badge-dark.png" width="150" height="50" alt="JWT Auth for open source projects" />
 
-Auth0
+Icons8
 ------------
 This project uses icons fom (cooming soon on V2) [Icons8](https://icons8.com/).
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Icons8_logo.jpg" width="150" height="50" alt="Icons for open source projects with icons8" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Icons8_logo.jpg"  height="50" alt="Icons for open source projects with icons8" />
 
 
